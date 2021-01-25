@@ -24,7 +24,7 @@ Bottom 5 Schools by Overall Passing Percentage
 ![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_4_Bottom5.png)
 #
 Math Scores by Grade
-!{alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_5_Math_Score.png)
+![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_5_Math_Score.png)
 #
 Reading Scores by Grade
 ![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_6_Reading_Score.png)
