@@ -24,9 +24,11 @@ Bottom 5 Schools by Overall Passing Percentage
 ![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_4_Bottom5.png)
 #
 Math Scores by Grade
+#
 ![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_5_Math_Score.png)
 #
 Reading Scores by Grade
+#
 ![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_2_6_Reading_Score.png)
 #
 Spending Summary
@@ -40,6 +42,16 @@ School Type Summary
 #
 ## Summary
 #
-### Major Changes - Before
+### Before removing 9th Grade data for Thomson High School
+![alt_text](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_3_1_Dist_Summary_Before.png)
 #
-### Major Changes - After
+### After removing 9th Grade daat for Thomson High School
+![alt_tex](https://github.com/gillranvir/School_District_Analysis/blob/main/Resources/Delv_3_2_Dist_Summary_After.png)
+#
+* The average math score at district level decrease by 0.1%
+* The percentage of students passing Math reduced by 0.2%
+* The percentage of students passing Reading reduced by 0.3%
+* The overall percentage of students passing both - Math and Reading - dropped by 0.1%
+
+
+
